@@ -1,0 +1,36 @@
+Uri: https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\shamcashai.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/tajawal/v12/Iura6YBj_oCad4k1rzY.ttf
+File Name: C:\Downloaded Web Sites\shamcashai.netlify.app\s\tajawal\v12\Iura6YBj_oCad4k1rzY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l4qkLrY.ttf
+File Name: C:\Downloaded Web Sites\shamcashai.netlify.app\s\tajawal\v12\Iurf6YBj_oCad4k1l4qkLrY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l8KiLrY.ttf
+File Name: C:\Downloaded Web Sites\shamcashai.netlify.app\s\tajawal\v12\Iurf6YBj_oCad4k1l8KiLrY.ttf
+Content Type: font/ttf
+
+Uri: https://shamcashai.netlify.app/
+File Name: C:\Downloaded Web Sites\shamcashai.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://shamcashai.netlify.app/images/car1.jpeg
+File Name: C:\Downloaded Web Sites\shamcashai.netlify.app\images\car1.jpeg
+Content Type: image/jpeg
+
+Uri: https://shamcashai.netlify.app/images/logo.svg
+File Name: C:\Downloaded Web Sites\shamcashai.netlify.app\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://shamcashai.netlify.app/script.js
+File Name: C:\Downloaded Web Sites\shamcashai.netlify.app\script.js
+Content Type: application/javascript
+
+Uri: https://shamcashai.netlify.app/styles.css
+File Name: C:\Downloaded Web Sites\shamcashai.netlify.app\styles.css
+Content Type: text/css
+
